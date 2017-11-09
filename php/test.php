@@ -1,11 +1,19 @@
 <?php
 
-if (condition) {
-  # code...
-}
+?>
 
-if
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Meski</title>
+  </head>
+  <body>
+
+  </body>
+</html>
+<?php
 
 
 
